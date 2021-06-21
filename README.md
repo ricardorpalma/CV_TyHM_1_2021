@@ -8,5 +8,9 @@ Mi cv puede descargarse de este link
 <p>
 [CV Actualizado](https://ricardorpalma.github.io/CV_TyHM_1_2021/CV.zip)
   
+  Ofea manera de compartir
+  
+  <a href="https://ricardorpalma.github.io/CV_TyHM_1_2021/CV.zip"> Actualizado en Julio de 2021 </a>
+  
   
   
