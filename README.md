@@ -6,4 +6,4 @@ Esta es la entrega del trabajo comp,eto el Módulo 1 - Creación de Textos e Hip
 
 Mi cv puede descargarse de este link
 <p>
-![CV Actualizado](CV.zip)
+[CV Actualizado](CV.zip)
